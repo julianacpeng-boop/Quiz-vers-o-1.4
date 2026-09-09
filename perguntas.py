@@ -22,7 +22,7 @@ QUIZZES = {
                 "Corrida veloz"
             ],
             "correta": 0,
-            "ilustracao": "assets/imagens/animais/01_bicho_preguica.png"
+            "ilustracao": "assets/imagens/01_bicho_preguica.png"
         },
         {
             "pergunta": "Qual sentido é especialmente desenvolvido nos cachorros?",
@@ -32,7 +32,7 @@ QUIZZES = {
                 "Paladar"
             ],
             "correta": 1,
-            "ilustracao": "assets/imagens/animais/02_cachorro.png"
+            "ilustracao": "assets/imagens/02_cachorro.png"
         },
         {
             "pergunta": "Qual é a característica mais marcante da girafa?",
@@ -42,7 +42,7 @@ QUIZZES = {
                 "Pescoço longo"
             ],
             "correta": 2,
-            "ilustracao": "assets/imagens/animais/03_girafa.png"
+            "ilustracao": "assets/imagens/03_girafa.png"
         },
         {
             "pergunta": "Qual característica torna o camaleão famoso?",
@@ -52,7 +52,7 @@ QUIZZES = {
                 "Viver debaixo d'água"
             ],
             "correta": 0,
-            "ilustracao": "assets/imagens/animais/04_camaleao.png"
+            "ilustracao": "assets/imagens/04_camaleao.png"
         },
         {
             "pergunta": "Qual é a característica mais marcante do elefante?",
@@ -62,7 +62,7 @@ QUIZZES = {
                 "Pescoço comprido"
             ],
             "correta": 1,
-            "ilustracao": "assets/imagens/animais/05_elefante.png"
+            "ilustracao": "assets/imagens/05_elefante.png"
         }
     ],
 
@@ -75,7 +75,7 @@ QUIZZES = {
                 "Plaqueta"
             ],
             "correta": 1,
-            "ilustracao": "assets/imagens/corpo_humano/01_neuronio.png"
+            "ilustracao": "assets/imagens/01_neuronio.png"
         },
         {
             "pergunta": "Qual é a principal função do coração?",
@@ -85,7 +85,7 @@ QUIZZES = {
                 "Digestionar alimentos"
             ],
             "correta": 0,
-            "ilustracao": "assets/imagens/corpo_humano/02_coracao.png"
+            "ilustracao": "assets/imagens/02_coracao.png"
         },
         {
             "pergunta": "Qual órgão é responsável principalmente pelas trocas de oxigênio durante a respiração?",
@@ -95,7 +95,7 @@ QUIZZES = {
                 "Pulmões"
             ],
             "correta": 2,
-            "ilustracao": "assets/imagens/corpo_humano/03_pulmoes.png"
+            "ilustracao": "assets/imagens/03_pulmoes.png"
         },
         {
             "pergunta": "Qual órgão controla grande parte das funções do corpo?",
@@ -105,7 +105,7 @@ QUIZZES = {
                 "Estômago"
             ],
             "correta": 0,
-            "ilustracao": "assets/imagens/corpo_humano/04_cerebro.png"
+            "ilustracao": "assets/imagens/04_cerebro.png"
         },
         {
             "pergunta": "Qual é a principal função dos rins?",
@@ -115,7 +115,7 @@ QUIZZES = {
                 "Produzir oxigênio"
             ],
             "correta": 1,
-            "ilustracao": "assets/imagens/corpo_humano/05_rins.png"
+            "ilustracao": "assets/imagens/05_rins.png"
         }
     ]
 }
