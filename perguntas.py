@@ -12,59 +12,110 @@
 # O nome da pasta é criado automaticamente a partir do nome do tema.
 
 QUIZZES = {
-    "Animais da Fazenda": [
+
+    "Animais": [
         {
-            "pergunta": "Qual animal da fazenda produz leite usado na alimentação humana?",
-            "alternativas": ["Galinha", "Vaca", "Porco"],
-            "correta": 1
+            "pergunta": "Qual é a característica mais marcante do bicho-preguiça?",
+            "alternativas": [
+                "Movimentos lentos",
+                "Grandes saltos",
+                "Corrida veloz"
+            ],
+            "correta": 0,
+            "ilustracao": "assets/imagens/animais/01_bicho_preguica.png"
         },
         {
-            "pergunta": "Qual animal costuma fornecer lã?",
-            "alternativas": ["Ovelha", "Cavalo", "Pato"],
-            "correta": 0
+            "pergunta": "Qual sentido é especialmente desenvolvido nos cachorros?",
+            "alternativas": [
+                "Visão",
+                "Olfato",
+                "Paladar"
+            ],
+            "correta": 1,
+            "ilustracao": "assets/imagens/animais/02_cachorro.png"
         },
         {
-            "pergunta": "Qual destes animais põe ovos?",
-            "alternativas": ["Vaca", "Porco", "Galinha"],
-            "correta": 2
+            "pergunta": "Qual é a característica mais marcante da girafa?",
+            "alternativas": [
+                "Orelhas grandes",
+                "Cauda comprida",
+                "Pescoço longo"
+            ],
+            "correta": 2,
+            "ilustracao": "assets/imagens/animais/03_girafa.png"
         },
         {
-            "pergunta": "Qual animal é frequentemente utilizado para montaria?",
-            "alternativas": ["Cabra", "Cavalo", "Galinha"],
-            "correta": 1
+            "pergunta": "Qual característica torna o camaleão famoso?",
+            "alternativas": [
+                "Mudar de cor",
+                "Voar",
+                "Viver debaixo d'água"
+            ],
+            "correta": 0,
+            "ilustracao": "assets/imagens/animais/04_camaleao.png"
         },
         {
-            "pergunta": "Qual destes animais costuma viver em um chiqueiro?",
-            "alternativas": ["Porco", "Pato", "Cavalo"],
-            "correta": 0
+            "pergunta": "Qual é a característica mais marcante do elefante?",
+            "alternativas": [
+                "Asas grandes",
+                "Tromba longa",
+                "Pescoço comprido"
+            ],
+            "correta": 1,
+            "ilustracao": "assets/imagens/animais/05_elefante.png"
         }
     ],
 
     "Corpo Humano": [
         {
-            "pergunta": "Qual órgão bombeia o sangue pelo corpo?",
-            "alternativas": ["Pulmão", "Coração", "Rim"],
-            "correta": 1
+            "pergunta": "Qual célula do cérebro é responsável por transmitir impulsos nervosos?",
+            "alternativas": [
+                "Hemácia",
+                "Neurônio",
+                "Plaqueta"
+            ],
+            "correta": 1,
+            "ilustracao": "assets/imagens/corpo_humano/01_neuronio.png"
         },
         {
-            "pergunta": "Qual parte do corpo é usada principalmente para enxergar?",
-            "alternativas": ["Olhos", "Ouvidos", "Nariz"],
-            "correta": 0
+            "pergunta": "Qual é a principal função do coração?",
+            "alternativas": [
+                "Bombear o sangue",
+                "Produzir ar",
+                "Digestionar alimentos"
+            ],
+            "correta": 0,
+            "ilustracao": "assets/imagens/corpo_humano/02_coracao.png"
         },
         {
-            "pergunta": "Qual órgão está protegido pelo crânio?",
-            "alternativas": ["Estômago", "Fígado", "Cérebro"],
-            "correta": 2
+            "pergunta": "Qual órgão é responsável principalmente pelas trocas de oxigênio durante a respiração?",
+            "alternativas": [
+                "Estômago",
+                "Fígado",
+                "Pulmões"
+            ],
+            "correta": 2,
+            "ilustracao": "assets/imagens/corpo_humano/03_pulmoes.png"
         },
         {
-            "pergunta": "Qual parte do corpo usamos principalmente para respirar o ar?",
-            "alternativas": ["Joelho", "Nariz", "Cotovelo"],
-            "correta": 1
+            "pergunta": "Qual órgão controla grande parte das funções do corpo?",
+            "alternativas": [
+                "Cérebro",
+                "Rim",
+                "Estômago"
+            ],
+            "correta": 0,
+            "ilustracao": "assets/imagens/corpo_humano/04_cerebro.png"
         },
         {
-            "pergunta": "Qual parte do corpo contém os dedos da mão?",
-            "alternativas": ["Mão", "Pé", "Ombro"],
-            "correta": 0
+            "pergunta": "Qual é a principal função dos rins?",
+            "alternativas": [
+                "Bombear sangue",
+                "Filtrar o sangue e formar a urina",
+                "Produzir oxigênio"
+            ],
+            "correta": 1,
+            "ilustracao": "assets/imagens/corpo_humano/05_rins.png"
         }
     ]
 }
