@@ -11,111 +11,108 @@
 #
 # O nome da pasta é criado automaticamente a partir do nome do tema.
 
-QUIZZES = {
+"Curiosidades dos Animais": [
+    {
+        "pergunta": "Por que os flamingos possuem coloração rosada?",
+        "alternativas": [
+            "Por causa da alimentação",
+            "Por causa da temperatura",
+            "Por causa da idade"
+        ],
+        "correta": 0,
+        "ilustracao": "assets/imagens/curiosidades_animais/01_flamingo.png"
+    },
+    {
+        "pergunta": "Por que os gatos possuem bigodes tão sensíveis?",
+        "alternativas": [
+            "Para produzir sons",
+            "Para perceber o ambiente",
+            "Para manter o corpo aquecido"
+        ],
+        "correta": 1,
+        "ilustracao": "assets/imagens/curiosidades_animais/02_gato.png"
+    },
+    {
+        "pergunta": "Por que os pinguins se agrupam em grandes grupos no frio?",
+        "alternativas": [
+            "Para procurar alimento",
+            "Para aprender a nadar",
+            "Para conservar calor"
+        ],
+        "correta": 2,
+        "ilustracao": "assets/imagens/curiosidades_animais/03_pinguins.png"
+    },
+    {
+        "pergunta": "Para que serve principalmente a língua comprida do tamanduá?",
+        "alternativas": [
+            "Capturar insetos",
+            "Beber água",
+            "Limpar o pelo"
+        ],
+        "correta": 0,
+        "ilustracao": "assets/imagens/curiosidades_animais/04_tamandua.png"
+    },
+    {
+        "pergunta": "Por que alguns pássaros migram milhares de quilômetros?",
+        "alternativas": [
+            "Para mudar a cor das penas",
+            "Para encontrar melhores condições",
+            "Para aprender a voar"
+        ],
+        "correta": 1,
+        "ilustracao": "assets/imagens/curiosidades_animais/05_passaros.png"
+    }
+],
 
-    "Animais": [
-        {
-            "pergunta": "Qual é a característica mais marcante do bicho-preguiça?",
-            "alternativas": [
-                "Movimentos lentos",
-                "Grandes saltos",
-                "Corrida veloz"
-            ],
-            "correta": 0,
-            "ilustracao": "assets/imagens/01_bicho_preguica.png"
-        },
-        {
-            "pergunta": "Qual sentido é especialmente desenvolvido nos cachorros?",
-            "alternativas": [
-                "Visão",
-                "Olfato",
-                "Paladar"
-            ],
-            "correta": 1,
-            "ilustracao": "assets/imagens/02_cachorro.png"
-        },
-        {
-            "pergunta": "Qual é a característica mais marcante da girafa?",
-            "alternativas": [
-                "Orelhas grandes",
-                "Cauda comprida",
-                "Pescoço longo"
-            ],
-            "correta": 2,
-            "ilustracao": "assets/imagens/03_girafa.png"
-        },
-        {
-            "pergunta": "Qual característica torna o camaleão famoso?",
-            "alternativas": [
-                "Mudar de cor",
-                "Voar",
-                "Viver debaixo d'água"
-            ],
-            "correta": 0,
-            "ilustracao": "assets/imagens/04_camaleao.png"
-        },
-        {
-            "pergunta": "Qual é a característica mais marcante do elefante?",
-            "alternativas": [
-                "Asas grandes",
-                "Tromba longa",
-                "Pescoço comprido"
-            ],
-            "correta": 1,
-            "ilustracao": "assets/imagens/05_elefante.png"
-        }
-    ],
-
-    "Corpo Humano": [
-        {
-            "pergunta": "Qual célula do cérebro é responsável por transmitir impulsos nervosos?",
-            "alternativas": [
-                "Hemácia",
-                "Neurônio",
-                "Plaqueta"
-            ],
-            "correta": 1,
-            "ilustracao": "assets/imagens/01_neuronio.png"
-        },
-        {
-            "pergunta": "Qual é a principal função do coração?",
-            "alternativas": [
-                "Bombear o sangue",
-                "Produzir ar",
-                "Digestionar alimentos"
-            ],
-            "correta": 0,
-            "ilustracao": "assets/imagens/02_coracao.png"
-        },
-        {
-            "pergunta": "Qual órgão é responsável principalmente pelas trocas de oxigênio durante a respiração?",
-            "alternativas": [
-                "Estômago",
-                "Fígado",
-                "Pulmões"
-            ],
-            "correta": 2,
-            "ilustracao": "assets/imagens/03_pulmoes.png"
-        },
-        {
-            "pergunta": "Qual órgão controla grande parte das funções do corpo?",
-            "alternativas": [
-                "Cérebro",
-                "Rim",
-                "Estômago"
-            ],
-            "correta": 0,
-            "ilustracao": "assets/imagens/04_cerebro.png"
-        },
-        {
-            "pergunta": "Qual é a principal função dos rins?",
-            "alternativas": [
-                "Bombear sangue",
-                "Filtrar o sangue e formar a urina",
-                "Produzir oxigênio"
-            ],
-            "correta": 1,
-            "ilustracao": "assets/imagens/05_rins.png"
-        }
-    ]
-}
+"Ciência do Dia a Dia": [
+    {
+        "pergunta": "Por que um espelho fica embaçado depois de um banho quente?",
+        "alternativas": [
+            "A luz fica mais fraca",
+            "O vidro derrete levemente",
+            "O vapor se condensa"
+        ],
+        "correta": 2,
+        "ilustracao": "assets/imagens/ciencia_dia_a_dia/01_espelho.png"
+    },
+    {
+        "pergunta": "Por que uma colher de metal parece mais fria que uma de madeira?",
+        "alternativas": [
+            "O metal conduz calor melhor",
+            "A madeira produz calor",
+            "O metal sempre possui menor temperatura"
+        ],
+        "correta": 0,
+        "ilustracao": "assets/imagens/ciencia_dia_a_dia/02_colheres.png"
+    },
+    {
+        "pergunta": "Por que vemos um relâmpago antes de ouvir o trovão?",
+        "alternativas": [
+            "O trovão acontece depois",
+            "A luz viaja mais rápido que o som",
+            "O vento bloqueia o som"
+        ],
+        "correta": 1,
+        "ilustracao": "assets/imagens/ciencia_dia_a_dia/03_tempestade.png"
+    },
+    {
+        "pergunta": "O que faz um cubo de gelo desaparecer dentro de uma bebida?",
+        "alternativas": [
+            "Evaporação",
+            "Congelamento",
+            "Fusão"
+        ],
+        "correta": 2,
+        "ilustracao": "assets/imagens/ciencia_dia_a_dia/04_bebida_gelo.png"
+    },
+    {
+        "pergunta": "Por que roupas escuras costumam esquentar mais sob o Sol?",
+        "alternativas": [
+            "Absorvem mais radiação",
+            "Produzem calor próprio",
+            "Bloqueiam totalmente a luz"
+        ],
+        "correta": 0,
+        "ilustracao": "assets/imagens/ciencia_dia_a_dia/05_roupas_sol.png"
+    }
+]
