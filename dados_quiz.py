@@ -13,36 +13,68 @@
 # ============================================================
 
 QUIZZES = {
-    "Corpo Humano": [
+
+    "Curiosidades Gerais": [
         {
-            "pergunta": "Qual órgão bombeia o sangue por todo o corpo?",
-            "alternativas": ["Pulmão", "Fígado", "Coração"],
-            "correta": 2,
-            "usar_imagens": True,
-            "imagens": [
-                "imagens_perguntas/pulmao.png",
-                "imagens_perguntas/figado.png",
-                "imagens_perguntas/coracao.png",
-            ],
-            "rotulos_imagens": ["Pulmão", "Fígado", "Coração"],
-        },
-        {
-            "pergunta": "Qual órgão filtra o sangue e produz a urina?",
-            "alternativas": ["Pâncreas", "Rim", "Baço"],
+            "pergunta": "Qual é a capital da Austrália?",
+            "alternativas": ["Sydney", "Canberra", "Melbourne"],
             "correta": 1,
             "usar_imagens": False,
         },
         {
-            "pergunta": "Qual parte do corpo protege o cérebro?",
-            "alternativas": ["Costela", "Crânio", "Pulmão"],
-            "correta": 1,
-            "usar_imagens": True,
-            "imagens": [
-                "imagens_perguntas/costela.png",
-                "imagens_perguntas/cranio.png",
-                "imagens_perguntas/pulmao.png",
-            ],
-            "rotulos_imagens": ["Costela", "Crânio", "Pulmão"],
+            "pergunta": "Qual é o maior oceano do planeta?",
+            "alternativas": ["Pacífico", "Atlântico", "Índico"],
+            "correta": 0,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Qual planeta é conhecido como Planeta Vermelho?",
+            "alternativas": ["Vênus", "Júpiter", "Marte"],
+            "correta": 2,
+            "usar_imagens": False,
         },
     ],
+
+    "Corpo Humano": [
+        {
+            "pergunta": "Qual órgão bombeia o sangue por todo o corpo?",
+            "alternativas": ["Pulmão", "Coração", "Fígado"],
+            "correta": 1,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Quantos ossos tem, em geral, o corpo humano adulto?",
+            "alternativas": ["206", "186", "226"],
+            "correta": 0,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Qual gás o corpo humano utiliza na respiração?",
+            "alternativas": ["Nitrogênio", "Hélio", "Oxigênio"],
+            "correta": 2,
+            "usar_imagens": False,
+        },
+    ],
+
+    "Ciência do Dia a Dia": [
+        {
+            "pergunta": "A quantos graus Celsius a água congela, em condições comuns?",
+            "alternativas": ["0 graus", "10 graus", "20 graus"],
+            "correta": 0,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Qual mudança de estado ocorre quando um líquido passa para o estado gasoso?",
+            "alternativas": ["Fusão", "Vaporização", "Solidificação"],
+            "correta": 1,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Ao nível do mar, aproximadamente a quantos graus Celsius a água ferve?",
+            "alternativas": ["50 graus", "80 graus", "100 graus"],
+            "correta": 2,
+            "usar_imagens": False,
+        },
+    ],
+
 }
