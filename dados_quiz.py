@@ -14,65 +14,101 @@
 
 QUIZZES = {
 
-    "Curiosidades Gerais": [
+    "Eleições 2026": [
         {
-            "pergunta": "Qual é a capital da Austrália?",
-            "alternativas": ["Sydney", "Canberra", "Melbourne"],
-            "correta": 1,
-            "usar_imagens": False,
-        },
-        {
-            "pergunta": "Qual é o maior oceano do planeta?",
-            "alternativas": ["Pacífico", "Atlântico", "Índico"],
+            "pergunta": "Em qual data acontece o primeiro turno das Eleições 2026?",
+            "alternativas": [
+                "4 de outubro",
+                "11 de outubro",
+                "25 de outubro"
+            ],
             "correta": 0,
             "usar_imagens": False,
         },
         {
-            "pergunta": "Qual planeta é conhecido como Planeta Vermelho?",
-            "alternativas": ["Vênus", "Júpiter", "Marte"],
+            "pergunta": "Quantas escolhas para senador o eleitor fará nas Eleições 2026?",
+            "alternativas": [
+                "Uma",
+                "Duas",
+                "Três"
+            ],
+            "correta": 1,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Qual destes cargos NÃO está em disputa nas Eleições Gerais de 2026?",
+            "alternativas": [
+                "Presidente",
+                "Governador",
+                "Prefeito"
+            ],
             "correta": 2,
             "usar_imagens": False,
         },
     ],
 
-    "Corpo Humano": [
+    "A Fazenda 18": [
         {
-            "pergunta": "Qual órgão bombeia o sangue por todo o corpo?",
-            "alternativas": ["Pulmão", "Coração", "Fígado"],
+            "pergunta": "Quem apresenta A Fazenda 18?",
+            "alternativas": [
+                "Ana Hickmann",
+                "Ticiane Pinheiro",
+                "Adriane Galisteu"
+            ],
+            "correta": 2,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Em qual dia A Fazenda 18 estreou em 2026?",
+            "alternativas": [
+                "7 de setembro",
+                "14 de setembro",
+                "21 de setembro"
+            ],
             "correta": 1,
             "usar_imagens": False,
         },
         {
-            "pergunta": "Quantos ossos tem, em geral, o corpo humano adulto?",
-            "alternativas": ["206", "186", "226"],
+            "pergunta": "Em qual cidade fica a sede de A Fazenda 18?",
+            "alternativas": [
+                "Itapecerica da Serra",
+                "Campinas",
+                "Rio de Janeiro"
+            ],
             "correta": 0,
-            "usar_imagens": False,
-        },
-        {
-            "pergunta": "Qual gás o corpo humano utiliza na respiração?",
-            "alternativas": ["Nitrogênio", "Hélio", "Oxigênio"],
-            "correta": 2,
             "usar_imagens": False,
         },
     ],
 
-    "Ciência do Dia a Dia": [
+    "Relacionamento": [
         {
-            "pergunta": "A quantos graus Celsius a água congela, em condições comuns?",
-            "alternativas": ["0 graus", "10 graus", "20 graus"],
-            "correta": 0,
-            "usar_imagens": False,
-        },
-        {
-            "pergunta": "Qual mudança de estado ocorre quando um líquido passa para o estado gasoso?",
-            "alternativas": ["Fusão", "Vaporização", "Solidificação"],
+            "pergunta": "Qual atitude demonstra melhor uma escuta ativa no relacionamento?",
+            "alternativas": [
+                "Interromper a pessoa",
+                "Ouvir e fazer perguntas",
+                "Mudar de assunto"
+            ],
             "correta": 1,
             "usar_imagens": False,
         },
         {
-            "pergunta": "Ao nível do mar, aproximadamente a quantos graus Celsius a água ferve?",
-            "alternativas": ["50 graus", "80 graus", "100 graus"],
+            "pergunta": "Em um relacionamento, o consentimento deve ser como?",
+            "alternativas": [
+                "Presumido",
+                "Obrigatório",
+                "Livre e contínuo"
+            ],
             "correta": 2,
+            "usar_imagens": False,
+        },
+        {
+            "pergunta": "Qual atitude ajuda a resolver um mal-entendido entre um casal?",
+            "alternativas": [
+                "Conversar com clareza",
+                "Ignorar para sempre",
+                "Espalhar o problema para outras pessoas"
+            ],
+            "correta": 0,
             "usar_imagens": False,
         },
     ],
